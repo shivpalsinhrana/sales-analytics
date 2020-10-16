@@ -1,5 +1,3 @@
-*In Progress
-
 # Sales Analysis and Visualization for an Electronics Retail Company
 
 In this project, a sample dataset from an electronic retail company is explored and the insights from the data are obtained. Mainly, pandas and Matplotlib along with some other visualization libraries.  
